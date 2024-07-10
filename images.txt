@@ -1,4 +1,2 @@
 # dockerhub镜像
 docker.io/bitnami/kafka:3.5.1-debian-11-r35
-# nacos-mysql镜像
-nacos/nacos-mysql:5.7
